@@ -9,11 +9,11 @@ npx create-react-app 'app name' --template typescript
 
 - @mui/material, @mui/icons-material
     - design system - material ui
-    [Usage - MUI](https://mui.com/getting-started/usage/)
+    - [Usage - MUI](https://mui.com/getting-started/usage/)
         
 - @emotion/react, @emotion/styled
     - css in js
-    [Usage - Emotion](https://emotion.sh/docs/introduction)
+    - [Usage - Emotion](https://emotion.sh/docs/introduction)
 
 ### 파일 구조
 
