@@ -9,11 +9,11 @@ npx create-react-app 'app name' --template typescript
 
 - @mui/material, @mui/icons-material
     - design system - material ui
-        
-        [Usage - MUI](https://mui.com/getting-started/usage/)
+    [Usage - MUI](https://mui.com/getting-started/usage/)
         
 - @emotion/react, @emotion/styled
     - css in js
+    [Usage - Emotion](https://emotion.sh/docs/introduction)
 
 ### 파일 구조
 
@@ -84,3 +84,7 @@ npx create-react-app 'app name' --template typescript
     	)
     }
     ```
+    
+  ### 읽으면 좋은 자료
+  - [벨로퍼트와 함께하는 모던 리액트](https://react.vlpt.us/)
+  - [리덕스 잘 쓰고 계시나요? - 리디주식](https://ridicorp.com/story/how-to-use-redux-in-ridi/)
